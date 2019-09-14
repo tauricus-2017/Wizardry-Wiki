@@ -1,0 +1,20 @@
+| MFrost Ray |![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/spells/frost_ray.png)|
+|---|---|
+| Tier | Apprentice |
+| Element | Ice |
+| Type | Attack |
+| Mana Cost | 5/second |
+| Continuous | Yes |
+| Cast by wizards | Yes |
+| ID | `ebwizardry:frost_ray` |
+| Metadata | 18 |
+| First appeared in | Wizardry 1.0 |
+## Description
+_Creates a stream of frost in the direction you are pointing which slows and continually damages targets._
+
+Frost ray deals 3 damage per second and applies Frostbite effect for 10 seconds.
+
+## Trivia
+- Frost ray has a range of 17 blocks
+- The damage of the spell increases to 4 damage per second while using Appretice or Advanced Ice wand and 5 damage per second while using Master Ice wand.
+- Whith activated Ring Of Glaciation you can achieve 6 damage per second while using Advanced or Master Ice wand - this is the highest damage you can achieve.
